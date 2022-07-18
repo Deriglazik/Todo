@@ -1,0 +1,42 @@
+.todo{
+  color: #d8f5a2;
+  background-color: rgb(94, 155, 184);
+  text-align: center;
+}
+
+.new-task{
+  display: flex;
+  justify-content: center; 
+  
+}
+.input-text{
+  padding-left:10px ;
+  margin-right: 20px;
+  border: 3px inset rgb(166, 234, 255);
+  border-radius: 10px;
+  width: 10rem;
+  height: 2rem;
+}
+
+.button-task{
+  color: #d8f5a2;  
+  padding: 10px;
+  background: rgb(94, 155, 184);
+  border-radius: 10px;
+}
+
+.button-task:active{  
+  background: rgb(27, 104, 139);
+}
+
+ul{
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
+
+
+
+
